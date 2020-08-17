@@ -9,3 +9,11 @@
 
         self.raw_seq = numpy.array(self.raw_seq)
         self.train_X, self.train_y, self.test_X, self.test_y = self._prepare_data(self.raw_seq)
+icwcmowocw
+
+
+
+
+
+
+JESTEM NOWYM BRANCHEM OD newBranch(chyba)
